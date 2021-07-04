@@ -1,0 +1,25 @@
+*{
+    padding: 0%;
+    margin: 0;
+}
+
+.family{
+    background: purple;
+    color: rgb(57, 235, 41);
+    text-align: center;
+    margin: 200px !important;
+    display: inline-block;
+    
+}
+@media(max-width:768px){
+   .family {
+        background: black;
+        color: white;
+        margin: 100px;
+        display: inline-block;
+        
+    }
+}
+.family h1{}
+.family h6{}
+.family p{}
